@@ -4,7 +4,7 @@ This is the home page for the Spring 2018 version of PQHS/CRSP (formerly EPBI) 5
 
 ## The Course Syllabus and Schedule
 
-The course syllabus is available at https://thomaselove.github.io/500-syllabus/
+The course syllabus is available at https://thomaselove.github.io/500-syllabus/. It is a work in progress.
 
 ## Course Notes
 
