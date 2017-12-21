@@ -8,10 +8,6 @@ The course syllabus is available at https://thomaselove.github.io/500-syllabus/.
 
 The [course schedule](https://github.com/THOMASELOVE/500-2018/blob/master/SCHEDULE.md) is also available. The course begins on Thursday, 2018-01-18 at 8:30 AM.
 
-## Course Notes
-
-Course notes will be available at https://thomaselove.github.io/500-notes/ in due time.
-
 ## Key Links
 
 - [Assignments](https://github.com/THOMASELOVE/500-2018/tree/master/assignments) material.
