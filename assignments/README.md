@@ -8,27 +8,15 @@ The course requires you to complete four types of "assignments."
 
 3. **Essays in reaction to Rosenbaum**: Beginning with Class 4, you will produce an **essay** of 175-250 words in reaction to a prompt related to that week's chapter from Rosenbaum's *Observation & Experiment* text. The prompts are [available here](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md).
 
-4. **Homework Assignments**: Five homework assignments usually require you to do some analyses (using R and R Markdown) on data I will provide, clustered in the early part of the course. These are largely ungraded, and give you an opportunity to practice or develop coding skills in a low-stakes environment. Details are posted below.
+4. **Homework Assignments**: Five homework assignments usually require you to do some analyses (using R and R Markdown) on realistic but not real data I will provide. These are mostly ungraded for quality - just for completeness, and give you an opportunity to practice or develop coding skills in a low-stakes environment. Details are posted below.
 
 ## Homework Assignments
 
-### Assignment 1
-
-Assignment 1 involves , and the full details are available here.
-
-### Assignment 2
-
-Assignment 2 involves , and the full details are available here.
-
-### Assignment 3
-
-Assignment 3 involves , and the full details are available here.
-
-### Assignment 4
-
-Assignment 4 involves , and the full details are available here.
-
-### Assignment 5
-
-Assignment 5 involves , and the full details are available here.
+Assignment   | Deliverables
+-----------: | --------------------------------------------------------------------------
+[Homework 1](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework1) | Mock Proposal, Logistic Regression model with DIG data
+Homework 2 | Fitting a Propensity Score Model
+Homework 3 | Using the Propensity Score, 1
+Homework 4 | Using the Propensity Score, 2
+Homework 5 | Using the Propensity Score, 3
 
