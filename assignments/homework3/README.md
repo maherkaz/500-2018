@@ -35,10 +35,7 @@ Ignoring the covariate information, provide an appropriate (unadjusted) estimate
 
 ## Task 2. 
 
-Next, fit a propensity score model to the data, using the eight pieces of covariate information, including age, gender, race, marital status, cancer type (which must be treated in R as a factor rather than just a continuous predictor [see hint below]) the model survival probability, Charlson index and ECOG (which I would also treat as a factor). Do not include interactions between terms.
-    + One potential approach would be to create a factor variable, called `typeca.f` to represent the data in the `typeca` variable, and label the levels appropriately. I would then use `typeca.f` in the propensity model.
-    + You might use: `canc3$typeca.f <- factor(canc3$typeca, labels=c("colon", "lung", "gyn"))`
-    + To see that this worked properly, try a sanity check with `table(canc3$typeca, canc3$typeca.f)`
+Next, fit a propensity score model to the data, using the eight pieces of covariate information, including age, gender, race, marital status, cancer type (which must be treated in R as a factor rather than just a continuous predictor) the model survival probability, Charlson index and ECOG. Do not include interactions between terms.
 
 ## Task 3.
 
@@ -54,10 +51,19 @@ Use subclassification by quintile of the propensity score to estimate the effect
 
 ## Task 6. 
 
-In our first propensity score matching attempt with the `canc3` data, we'll apply a 1:1 match without replacement. Do the matching, and then evaluate the balance associated with this approach, as follows:
-    + Evaluate the degree of covariate imbalance before and after propensity score matching for each of the eight covariates and for the (linear *and* raw) propensity score. Do so by plotting the standardized differences. Your plot should include standardized differences that identify the three cancer types (one remaining as baseline) individually, one each for any other covariates you treat as quantitative, and an appropriate set of indicators for any others you treat as categorical, plus one for the linear propensity score, and one for the raw propensity score.
-    + Next, evaluate the balance imposed by your 1:1 match via calculation of Rubin's Rule 1 and Rule 2 results, and comparing them to our results obtained prior to propensity adjustment in  Task 3.
-    + Finally, find a point estimate (and 95\% confidence interval) for the effect of the treatment on the `hospice` outcome, based on your 1:1 match on the propensity score. Since the outcomes are binary, you should be using a conditional logistic regression to establish odds ratio estimates, while accounting for the pairs.
+In our first propensity score matching attempt with the `canc3` data, we'll apply a 1:1 match without replacement. Do the matching, and then evaluate the balance associated with this approach, as follows.
+
+### Task 6a.
+
+Evaluate the degree of covariate imbalance before and after propensity score matching for each of the eight covariates and for the (linear *and* raw) propensity score. Do so by plotting the standardized differences. Your plot should include standardized differences that identify the three cancer types (one remaining as baseline) individually, one each for any other covariates you treat as quantitative, and an appropriate set of indicators for any others you treat as categorical, plus one for the linear propensity score, and one for the raw propensity score.
+
+### Task 6b.
+
+Evaluate the balance imposed by your 1:1 match via calculation of Rubin's Rule 1 and Rule 2 results, and comparing them to our results obtained prior to propensity adjustment in  Task 3.
+
+### Task 6c.
+
+Finally, find a point estimate (and 95\% confidence interval) for the effect of the treatment on the `hospice` outcome, based on your 1:1 match on the propensity score. Since the outcomes are binary, you should be using a conditional logistic regression to establish odds ratio estimates, while accounting for the pairs.
 
 ## Task 7.
 
