@@ -5,18 +5,18 @@ All classes meet from 8:30 - 11:00 AM
 Class | Date | Key Information
 -----: | ---------: | --------------------------------------------------------------------------------
 1 | Thu 2018-01-18 | Setting Expectations and Getting Started
-2 | Thu 2018-01-25 | Read Rosenbaum Chapters 1-4
+2 | Thu 2018-01-25 | Homework 1 due, Read Rosenbaum Chapters 1-4
 3 | Thu 2018-02-01 | Class to be held in WRB 6136, Read Rosenbaum Chapters 5-6
-4 | Thu 2018-02-08 | Read Rosenbaum Chapter 7
-5 | Thu 2018-02-15 | Read Rosenbaum Chapter 8
-6 | Thu 2018-02-22 | Read Rosenbaum Chapter 9
-7 | Thu 2018-03-01 | Read Rosenbaum Chapter 10
-8 | Thu 2018-03-08 | Read Rosenbaum Chapter 11
+4 | Thu 2018-02-08 | Prompt 7 due, Read Rosenbaum Chapter 7
+5 | Thu 2018-02-15 | Prompt 8 due, Read Rosenbaum Chapter 8
+6 | Thu 2018-02-22 | Prompt 9 due, Read Rosenbaum Chapter 9
+7 | Thu 2018-03-01 | OSIA studies need to be approved by this date, Prompt 10 due, Read Rosenbaum Chapter 10
+8 | Thu 2018-03-08 | Prompt 11 due, Read Rosenbaum Chapter 11
 -- | 2018-03-12 | SPRING BREAK at CWRU
-9 | Thu 2018-03-22 | Read Rosenbaum Chapter 12
-10 | Thu 2018-03-29 |
-11 | Thu 2018-04-05 | Read Rosenbaum Chapters 13-14
-12 | Thu 2018-04-12 |
+9 | Thu 2018-03-22 | OSIA group 1 presents, Prompt 12 due, Read Rosenbaum Chapter 12
+10 | Thu 2018-03-29 | OSIA group 2 presents
+11 | Thu 2018-04-05 | OSIA group 3 presents, Prompt 13 due, Read Rosenbaum Chapters 13-14
+12 | Thu 2018-04-12 | OSIA group 4 presents
 13 | Thu 2018-04-19 |
 14 | Thu 2018-04-26 | Last Class / Project Presentations
 
