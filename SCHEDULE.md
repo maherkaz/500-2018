@@ -9,9 +9,9 @@ Class | Date | Key Information
 3 | 02-01 | Class held in **WRB 6136**, [Homework 2](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework2) due, Rosenbaum Chapters 5-6
 -- | Feb | Dr. Love must approve your Project Proposal **in February**. 
 -- | Feb | Observational Studies in Action papers must be approved **in February**. 
-4 | 02-08 | [Essay for Prompt 7 due](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-7-elaborate-theories-due-before-class-4), Rosenbaum Chapter 7
+4 | 02-08 | [Essay for Prompt 7](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-7-elaborate-theories-due-before-class-4) due, Rosenbaum Chapter 7
 5 | 02-15 | [Essay for Prompt 8](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-8-quasi-experimental-devices-due-before-class-5), Rosenbaum Chapter 8
-6 | 02-22 | [Homework 3 due](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework3), [Prompt 9 Essay](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-9-sensitivity-to-bias-due-before-class-6), Rosenbaum Chapter 9
+6 | 02-22 | [Homework 3](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework3), [Prompt 9 Essay](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-9-sensitivity-to-bias-due-before-class-6), Rosenbaum Chapter 9
 -- | 02-28 | All project proposals and OSIA papers must be approved before March 1.
 7 | 03-01 | Homework 4 due, [Prompt 10 Essay](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-10-design-sensitivity-due-before-class-7), Rosenbaum Chapter 10
 8 | 03-08 | Homework 5 due, [Prompt 11 Essay](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-11-matching-techniques-due-before-class-8), Rosenbaum Chapter 11
