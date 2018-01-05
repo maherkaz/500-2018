@@ -7,8 +7,8 @@ Class | Date | Key Information
 1 | 01-18 | Setting Expectations and Getting Started
 2 | 01-25 | [Homework 1](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework1) due, Read Rosenbaum Chapters 1-4
 3 | 02-01 | Class held in **WRB 6136**, [Homework 2](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework2) due, Rosenbaum Chapters 5-6
--- | Feb | Dr. Love must approve your Project Proposal **before March 1**. You can submit any time in February.
--- | Feb | Observational Studies in Action papers must be approved **before March 1**. Submit any time in February.
+-- | Feb | Dr. Love must approve your Project Proposal **before March 1**. 
+-- | Feb | Observational Studies in Action papers must be approved **before March 1**. 
 4 | 02-08 | [Essay for Prompt 7 due](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-7-elaborate-theories-due-before-class-4), Rosenbaum Chapter 7
 5 | 02-15 | [Essay for Prompt 8](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-8-quasi-experimental-devices-due-before-class-5), Rosenbaum Chapter 8
 6 | 02-22 | Homework 3 due, [Prompt 9 Essay](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-9-sensitivity-to-bias-due-before-class-6), Rosenbaum Chapter 9
