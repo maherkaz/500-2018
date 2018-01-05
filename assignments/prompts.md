@@ -1,6 +1,6 @@
 # Prompts for Essays in reaction to Rosenbaum's *Observation and Experiment*
 
-Prior to the start of discussion about Chapters 7-13, you will produce an essay of 150-250 words each week in reaction to a prompt related to that week's chapter.
+Prior to the start of discussion about Chapters 7-13, you will produce an essay of **175-250 words** each week in reaction to a prompt related to that week's chapter.
 
 - You will submit each essay before class begins as a markdown file on GitHub. Details to come.
 - These essays will be shared with the rest of the class. 
