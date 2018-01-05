@@ -33,14 +33,16 @@ Use R, R Studio and R Markdown to execute a logistic regression model on the `di
 
 Your model should be fitted to a random training sample of 5,000 subjects (be sure to specify the seed you used to select that sample) and then tested on the remaining 1,800 subjects, but you'll probably want to check for and deal with missingness in the entire sample before splitting into training and test groups. Your model will predict the probability that a subject in the study will die, based on:
 
-- the subject's assigned treatment (digoxin or placebo), 
-- age at randomization, 
+- the subject's assigned treatment (digoxin or placebo),
+- the subject's age at randomization, 
 - race, 
 - sex, 
 - ejection fraction (percent), 
-- NYHA functional class, 
-- whether or not they currently have angina, and 
-- their calculated body mass index. 
+- calculated body mass index, 
+- NYHA functional class, and
+- whether or not the subject currently has angina.
+
+The relevant variables in the `dig1.csv` data set are therefore: `subjectid`, `DEATH`, `TRTMT`, `AGE`, `RACE`, `SEX`, `EJF_PER`, `BMI`, `FUNCTCLS`, and `ANGINA`.
 
 Be sure to treat the categorical variables (including NYHA class, angina status, race and sex) appropriately as factors (ideally with meaningful names), and account for missingness deliberately in an appropriate way. 
 
