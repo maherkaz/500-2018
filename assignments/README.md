@@ -15,7 +15,7 @@ The course requires you to complete four types of "assignments."
 Assignment   | Deliverables
 -----------: | --------------------------------------------------------------------------
 [Homework 1](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework1) | Mock Proposal, Logistic Regression model with DIG data
-Homework 2 | Fitting a Propensity Score Model
+[Homework 2](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework2) | Fitting a "Propensity Score" Model
 Homework 3 | Using the Propensity Score, 1
 Homework 4 | Using the Propensity Score, 2
 Homework 5 | Using the Propensity Score, 3
