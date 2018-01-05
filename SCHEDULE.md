@@ -6,7 +6,7 @@ Class | Date | Key Information
 :---: | -----------: | ----------------------------------------------------------------------------------------------
 1 | 01-18 | Setting Expectations and Getting Started
 2 | 01-25 | Homework 1 due, Read Rosenbaum Chapters 1-4
-3 | 02-01 | Class to be held in WRB 6136, Rosenbaum Chapters 5-6
+3 | 02-01 | Class held in **WRB 6136**, Rosenbaum Chapters 5-6
 4 | 02-08 | [Essay for Prompt 7 due](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-7-elaborate-theories-due-before-class-4), Rosenbaum Chapter 7
 5 | 02-15 | [Essay for Prompt 8](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-8-quasi-experimental-devices-due-before-class-5), Rosenbaum Chapter 8
 6 | 02-22 | [Prompt 9 Essay](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-9-sensitivity-to-bias-due-before-class-6), Rosenbaum Chapter 9
