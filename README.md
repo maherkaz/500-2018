@@ -16,6 +16,10 @@ The [course schedule](https://github.com/THOMASELOVE/500-2018/blob/master/SCHEDU
 - Presentation [Slides](https://github.com/THOMASELOVE/500-2018/tree/master/slides) from class. 
 - Outside [Texts](https://github.com/THOMASELOVE/500-2018/tree/master/texts) and other suggested reading materials.
 
+As the semester progresses, we are going to read a book together. You should obtain it as soon as possible.
+
+- Paul Rosenbaum's *Observation and Experiment: An Introduction to Causal Inference*, published in 2017 by Harvard University Press. The ISBN-13 number is 978-0674975576. The book is available electronically or in hardcover from Amazon and other retailers.
+
 ## Getting Help
 
 To get help on anything related to the course, email Dr. Love at `thomas.love@case.edu`.
