@@ -7,9 +7,10 @@ Visit https://biolincc.nhlbi.nih.gov/teaching/ and request copies of the DIG "te
 ## 2. Build a mock proposal for a DIG observational study
 
 Review the documentation available to you on the BIOLINCC page, which are [also available here](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework1), and complete a **mock proposal** not to exceed 300 words for an observational study based on the available data from the DIG randomized trial. A list of questions you should address follows below. [I have provided](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework1): 
-    - a PDF of the DIG data description from BIOLINCC
-    - a .csv file of the DIG data set you will obtain from NIH/BIOLINCC
-    - the original 1997 publication in the *New England Journal of Medicine*  by the Digitalis Investigation Group
+
+- a PDF of the DIG data description from BIOLINCC
+- a .csv file (`dig1.csv`) of the DIG data set you will obtain from NIH/BIOLINCC
+- the original 1997 publication in the *New England Journal of Medicine*  by the Digitalis Investigation Group
 
 ### Questions to be addressed in the Mock Proposals
 
