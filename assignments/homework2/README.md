@@ -10,7 +10,7 @@ Create a sample of 1000 subjects from the `dig1.csv` data describing the DIG stu
 
 ## 2. Create a Table 1.
 
-The Table 1 should describe the data according to whether or not the subject had a previous myocardial infarction (`PREVMI`) across each of these 12 variables.
+The Table 1 should describe the data according to whether or not the subject had a previous myocardial infarction (`PREVMI`) across each of these 12 variables. 
 
 Variable | Description
 -------: | -----------------------------------------------------
@@ -29,7 +29,7 @@ Variable | Description
 
 Note that the `dyspnea` categories are: 0 = None or Unknown, 1 = Present, 2 = Past, 3 = Present and Past
 
-Be sure to correctly represent each of the categorical variables as factors, rather than in the numerical form they start in. Also, be sure to accurately report whether any missing values are observed in this sample.
+Be sure to correctly represent each of the categorical variables as factors, rather than in the numerical form they start in. Label your factors to ease the work for the viewer, and reduce or eliminate the need to look at a codebook. Also, be sure to accurately report whether any missing values are observed in this sample.
 
 *Note*: You're going to have to do this again with a revised sample in step 4, so it's worth it to code this in a reproducible way.
 
