@@ -7,15 +7,15 @@ Class | Date | Key Information
 1 | Thu 2018-01-18 | Setting Expectations and Getting Started
 2 | Thu 2018-01-25 | Homework 1 due, Read Rosenbaum Chapters 1-4
 3 | Thu 2018-02-01 | Class to be held in WRB 6136, Read Rosenbaum Chapters 5-6
-4 | Thu 2018-02-08 | Prompt 7 due, Read Rosenbaum Chapter 7
-5 | Thu 2018-02-15 | Prompt 8 due, Read Rosenbaum Chapter 8
-6 | Thu 2018-02-22 | Prompt 9 due, Read Rosenbaum Chapter 9
-7 | Thu 2018-03-01 | OSIA studies need to be approved by this date, Prompt 10 due, Read Rosenbaum Chapter 10
-8 | Thu 2018-03-08 | Prompt 11 due, Read Rosenbaum Chapter 11
+4 | Thu 2018-02-08 | [Essay for Prompt 7 due](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-7-elaborate-theories-due-before-class-4), Read Rosenbaum Chapter 7
+5 | Thu 2018-02-15 | [Essay for Prompt 8 due](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-8-quasi-experimental-devices-due-before-class-5), Read Rosenbaum Chapter 8
+6 | Thu 2018-02-22 | [Essay for Prompt 9 due](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-9-sensitivity-to-bias-due-before-class-6), Read Rosenbaum Chapter 9
+7 | Thu 2018-03-01 | OSIA studies need to be approved by this date, [Essay for Prompt 10 due](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-10-design-sensitivity-due-before-class-7), Read Rosenbaum Chapter 10
+8 | Thu 2018-03-08 | [Essay for Prompt 11 due](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-11-matching-techniques-due-before-class-8), Read Rosenbaum Chapter 11
 -- | 2018-03-12 | SPRING BREAK at CWRU
-9 | Thu 2018-03-22 | OSIA group 1 presents, Prompt 12 due, Read Rosenbaum Chapter 12
+9 | Thu 2018-03-22 | OSIA group 1 presents, [Essay for Prompt 12 due](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-12-biases-from-general-dispositions-due-before-class-9), Read Rosenbaum Chapter 12
 10 | Thu 2018-03-29 | OSIA group 2 presents
-11 | Thu 2018-04-05 | OSIA group 3 presents, Prompt 13 due, Read Rosenbaum Chapters 13-14
+11 | Thu 2018-04-05 | OSIA group 3 presents, [Essay for Prompt 13 due](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-13-instruments-due-before-class-11), Read Rosenbaum Chapters 13-14
 12 | Thu 2018-04-12 | OSIA group 4 presents
 13 | Thu 2018-04-19 |
 14 | Thu 2018-04-26 | Last Class / Project Presentations
