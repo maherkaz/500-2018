@@ -4,7 +4,7 @@ All classes meet on Thursdays from 8:30 - 11:00 AM, mostly in WRB 1217
 
 Class | Date | Key Information
 :---: | -----------: | ----------------------------------------------------------------------------------------------
-1 | 2018-01-18 | Setting Expectations and Getting Started
+1 | 01-18 | Setting Expectations and Getting Started
 2 | 01-25 | Homework 1 due, Read Rosenbaum Chapters 1-4
 3 | 02-01 | Class to be held in WRB 6136, Read Rosenbaum Chapters 5-6
 4 | 02-08 | [Essay for Prompt 7 due](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md#prompt-for-chapter-7-elaborate-theories-due-before-class-4), Read Rosenbaum Chapter 7
