@@ -13,7 +13,7 @@ We have completed the data collection in a simulated study of 400 subjects with 
 The data file includes 400 observations, on 12 variables.
 
 Variable | Description | Notes
-
+----------: | -----------------| --------------------------------------------------------------------------------
 `subject` | Study ID number  | 1-250 are control, 251-400 are intervention
 `treated` | Treatment status | 1 = intervention (150), 0 = control (250)
 `age`     | Patient age      | At study entry, range is 34, 93 years
