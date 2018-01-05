@@ -37,13 +37,13 @@ Be sure to correctly represent each of the categorical variables as factors, rat
 
 Build a logistic regression model for previous MI using the main effects of the 12 variables above. I'd call the model `m1` that predicts the log odds of previous myocardial infarction (`PREVMI`) on the basis of the main effects of each of the twelve variables in your table above, for your sample of 1000 subjects. How many observations does your model actually fit results for? (This is asking for the number of subjects without any missingness, across all variables in your model.)
 
-## 4. Redefine your sample.
+## 4. Redefine your sample and rebuild the Table and Model.
 
 Assuming you have at least one missing value in a predictor in your model for question 3, re-define your sample to include only the observations which are "complete cases" with no missingness on any of the key variables we're looking at. Specify the number of subjects (< 1000) that remain in your new sample. 
 
 Now, **redo both Tasks 2 and 3** to describe this new sample and use it to fit a model. Call the new model `m2`. Verify that no missingness plagues this new model. 
 
-## 5. Add "model probability of `PREVMI`" to your data, and plot it.
+## 5. Add the fitted probabilities from Question 4 to your data, then plot them against observed status.
 
-Use the model (`m2`) you built in Task 4 to add the probability of previous myocardial infarction to your sample used to create `m2`. Produce an attractive and useful graphical summary of the distribution of fitted probabilities of previous myocardial infarction broken down into two categories by the patient's actual `PREVMI` status in this sample. I suggest rounding the probabilities to two decimal places before graphing.
+Use the model (`m2`) you built in Task 4 to add the fitted probability of previous myocardial infarction to your sample used to create `m2`. Produce an attractive and useful graphical summary of the distribution of fitted probabilities of previous myocardial infarction broken down into two categories by the patient's actual `PREVMI` status in this sample. I suggest rounding the probabilities to two decimal places before graphing.
 
