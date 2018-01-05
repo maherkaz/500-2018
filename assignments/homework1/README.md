@@ -1,4 +1,4 @@
-# Homework 1 for 500 - 2018
+# Homework 1 for 500 (Due at Class 2: 2018-01-25)
 
 ## Submission Details
 
