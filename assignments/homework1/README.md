@@ -29,13 +29,7 @@ To help you build a response, [I have provided](https://github.com/THOMASELOVE/5
     
 ## 3. Build and evaluate a logistic regression model using DIG data
 
-Use R, R Studio and R Markdown to execute a logistic regression model on the `dig1.csv` data. Your final results should include:
-
-- a R Markdown file containing all of your code
-- an HTML file with the results from your Markdown
-- your sample preparation work including dealing with missingness and partitioning the data into training and test samples
-- your fitted logistic regression model (to your training sample)
-- the results of your application of your model to your test sample, which is best accomplished as a graph which shows the distribution of your model probability estimates in the "actually died" and "actually survived" groups within your test sample.
+Use R, R Studio and R Markdown to execute a logistic regression model on the `dig1.csv` data. 
 
 Your model should be fitted to a random training sample of 5,000 subjects (be sure to specify the seed you used to select that sample) and then tested on the remaining 1,800 subjects, but you'll probably want to check for and deal with missingness in the entire sample before splitting into training and test groups. Your model will predict the probability that a subject in the study will die, based on:
 
@@ -50,5 +44,11 @@ Your model should be fitted to a random training sample of 5,000 subjects (be su
 
 Be sure to treat the categorical variables (including NYHA class, angina status, race and sex) appropriately as factors (ideally with meaningful names), and account for missingness deliberately in an appropriate way. 
 
+Your final results should include:
 
+1. a R Markdown file containing all of your code
+2. an HTML file with the results from your Markdown, which describes:
+    1. your sample preparation work including dealing with missingness and partitioning the data into training and test samples
+    2. your fitted logistic regression model (to your training sample)
+    3. the results of your application of your model to your test sample, which is best accomplished as a graph which shows the distribution of your model probability estimates in the "actually died" and "actually survived" groups within your test sample.
 
