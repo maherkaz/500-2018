@@ -18,5 +18,5 @@ Link for Details   | Deliverables
 [Homework 2](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework2) | Fitting a "Propensity Score" Model
 [Homework 3](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework3) | Using the Propensity Score in the `canc3` example, 1
 [Homework 4](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework4) | Using the Propensity Score in the `canc3` example, 2
-Homework 5 | Using the Propensity Score in the DIG data example, 3
+Homework 5 | Using the Propensity Score in the DIG data example
 
