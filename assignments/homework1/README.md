@@ -1,5 +1,9 @@
 # Homework 1 for 500 - 2018
 
+## Submission Details
+
+Submit your work according to the instructions Dr. Love provides in class.
+
 ## 1. Get access to the DIG training data
 
 Visit https://biolincc.nhlbi.nih.gov/teaching/ and request copies of the DIG "teaching" data set.
@@ -54,6 +58,3 @@ Your final results should include:
     2. your fitted logistic regression model (to your training sample)
     3. the results of your application of your model to your test sample, which is best accomplished as a graph which shows the distribution of your model probability estimates in the "actually died" and "actually survived" groups within your test sample.
 
-## Submission Details
-
-Submit your work according to the instructions Dr. Love provides in class.
