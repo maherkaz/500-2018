@@ -3,7 +3,7 @@
 All classes meet from 8:30 - 11:00 AM
 
 Class | Date | Key Information
------: | ---------: | --------------------------------------------------------------------------------
+:---: | -----------: | ----------------------------------------------------------------------------------------------
 1 | Thu 2018-01-18 | Setting Expectations and Getting Started
 2 | Thu 2018-01-25 | Homework 1 due, Read Rosenbaum Chapters 1-4
 3 | Thu 2018-02-01 | Class to be held in WRB 6136, Read Rosenbaum Chapters 5-6
