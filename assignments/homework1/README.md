@@ -54,3 +54,6 @@ Your final results should include:
     2. your fitted logistic regression model (to your training sample)
     3. the results of your application of your model to your test sample, which is best accomplished as a graph which shows the distribution of your model probability estimates in the "actually died" and "actually survived" groups within your test sample.
 
+## Submission Details
+
+Submit your work according to the instructions Dr. Love provides in class.
