@@ -2,12 +2,14 @@
 
 ## Submission Details
 
-You will submit this in two parts. Submit all projects through canvas.case.edu
+You will submit your final project materials in two parts. Submit all projects through canvas.case.edu
 
-1. By 11 PM on April 18, you will submit your pre-presentation versions of your Abstract and Slides.
-2. By noon on May 1, you will submit your final set of materials, including your abstract and slides (again, with revisions as necessary), your data set, R Markdown file and HTML document as outlined below.
+1. By **11 PM on April 18**, you will submit your pre-presentation versions of your [Abstract](https://github.com/THOMASELOVE/500-2018/blob/master/projects/final/README.md#the-abstract) and [Slides](https://github.com/THOMASELOVE/500-2018/blob/master/projects/final/README.md#the-presentation). The same deadline for Abstract and Slides applies to everyone, regardless of when you are actually giving your presentation (April 19 or 26).
+2. By **noon on May 1**, you will submit your final set of materials, including your abstract and slides (again, with revisions as necessary), your data set, R Markdown file and HTML document [as outlined below](https://github.com/THOMASELOVE/500-2018/blob/master/projects/final/README.md#the-final-set-of-deliverables-due-may-1-at-noon).
 
-The remainder of this document describes these pieces, and also provides some insight on how I'd like to see you put together your presentation, and how that presentation will be evaluated.
+The remainder of this document describes these pieces, and also provides some insight on [how I'd like to see you put together your presentation](https://github.com/THOMASELOVE/500-2018/blob/master/projects/final/README.md#some-suggestions-and-a-potential-outline-for-your-presentation), and [how you will be evaluating the presentations](https://github.com/THOMASELOVE/500-2018/blob/master/projects/final/README.md#evaluating-the-project-presentations).
+
+**ASK QUESTIONS EARLY. It's always easier to make adjustments when time pressure isn't a major issue.**
 
 ## The Abstract
 
