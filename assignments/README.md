@@ -1,6 +1,8 @@
 # Assignments for 500, Spring 2018
 
-The course requires you to complete four types of "assignments" and a total of 18 deliverables.
+The course requires you to complete four types of "assignments" and a total of 18 deliverables. 
+
+- The [Schedule page](https://github.com/THOMASELOVE/500-2018/blob/master/SCHEDULE.md) lists all deliverables for the course.
 
 ## Course Project - 3 deliverables
 
