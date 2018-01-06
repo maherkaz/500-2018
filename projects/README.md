@@ -4,7 +4,11 @@
 
 As a substantial part of your course grade, you will complete a small observational study comparing two exposures on at least two outcome(s) in time to generate an abstract, give a presentation, and complete a thorough written discussion using R Markdown.
 
-It is hard to learn statistics (or anything else) passively; concurrent theory and application are essential. Though hardly an original idea in general, this particular phrasing is stolen from Harry Roberts, as are several of the bulleted points to follow, originally prepared for his courses at the University of Chicago. I am also grateful to Doug Zahn, for several helpful suggestions swiped from his work at Florida State University, and to Dave Hildebrand, for many things, not least his excellent example at Wharton.. There is more to a statistical application than the analysis of a canned data set, even a good canned data set. George Box noted that "statistics has no reason for existence except as the catalyst for investigation and discovery." Expert clinical researchers and statisticians repeatedly emphasize how important it is that people be able to write well, present clearly, work to solve problems, and show initiative. This project assignment is designed to help you develop your abilities and have a memorable experience.
+"It is hard to learn statistics (or anything else) passively; concurrent theory and application are essential."
+
+Though hardly an original idea in general, this particular phrasing is stolen from Harry Roberts, as are several of the bulleted points to follow, originally prepared for his courses at the University of Chicago. I am also grateful to Doug Zahn, for several helpful suggestions swiped from his work at Florida State University, and to Dave Hildebrand, for many things, not least his excellent example at Wharton. 
+
+There is more to a statistical application than the analysis of a canned data set, even a good canned data set. George Box noted that "statistics has no reason for existence except as the catalyst for investigation and discovery." Expert clinical researchers and statisticians repeatedly emphasize how important it is that people be able to write well, present clearly, work to solve problems, and show initiative. This project assignment is designed to help you develop your abilities and have a memorable experience.
 
 ## Three Deliverables and their Deadlines
 
@@ -46,7 +50,7 @@ Your proposal will be a summary (moving towards an abstract) of your proposed st
         - If your primary outcome is binary (yes/no), your primary tool will usually be logistic regression. 
         - If your primary outcome is time-to-event, your primary tool will usually be Cox regression.
 
-That should be sufficient for this first draft. You'll need to fill in additional details by the time you submit the revised abstract later in the semester. If you've written three pages or more, go back and edit until you're down to about two pages. Your eventual abstract will also include results and conclusions, but we're not there yet. 
+That should be sufficient for this first draft. You'll need to fill in additional details by the time you submit the revised abstract later in the semester. If you've written three pages or more, go back and edit until you're down to about two pages. Your eventual abstract will also include results and conclusions, but we're not there yet. All materials for the project should be submitted through canvas.case.edu
 
 ### Frequently Asked Questions about the Proposal
 
@@ -83,3 +87,19 @@ That should be sufficient for this first draft. You'll need to fill in additiona
 
 ## Task 2: The Update, which can be submitted any time in March, but is due at noon on April 1.
 
+The update should include answers to the following questions:
+
+1. How has your abstract changed from your approved project proposal?
+    - Your update should include an edited version of the proposal you got approved initially, with additional materials and edits in reaction to my comments, and in reaction to changes that have occurred (i.e. I hope you will have details now on exactly how many observations you have, what the covariates are, etc.) – this might be as much as 2-3 pages, but is basically just an edited version of what you've already submitted.
+    
+2. Describe the data - tell me what you have, and what you are still waiting for. 
+    - Please provide a one (or more, if you need it) sentence data description statement that says something like the following...
+        - I have the data, and I have imported it into R, and I have completed some recoding of variables and preliminary analyses.
+        - Assuming the statement I have provided here is true, that's enough for me to see now. If you've done more than this, I don't need the details in this context.
+        - If the statement here is not true because you haven't gotten to that point yet, I'm going to want details on where you are and what the problem is, and I'm going to want those details well before April 1, so I can make suggestions about what to do.
+
+3. Describe the biggest problem you're currently having with regard to completing the design and analysis of the study. Feel free to describe multiple problems, especially if I can help. 
+    - Write a paragraph (or more, if you need it) describing the major problems you're currently having. 
+        - Or, if you have no major problems, tell me that, and describe the minor problems. 
+        - Or, if you have no problems at all, tell me that, and tell me what you still plan to do.
+        
