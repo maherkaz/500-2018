@@ -27,8 +27,42 @@ Many additional sources will be presented and referenced in class, and those are
 - Gum Patricia A et al. 2001 [Aspirin Use and All-Cause Mortality among Patients being Evaluated for Known or Suspected Coronary Artery Disease](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Gum%202001%20JAMA%20Aspirin%20Use%20Propensity%20Analysis.pdf) *Journal of the American Medical Association*
 - Hansen Ben B 2004 [Full Matching in an Observational Study of Coaching for the SAT](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Hansen%202004%20JASA%20Full%20Matching%20in%20SAT%20Coaching.pdf) *Journal of the American Statistical Association*
 - Haukoos Jason S and Lewis Roger J 2015 [The Propensity Score (JAMA Guide to Statistics and Methods)](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Haukoos%20and%20Lewis%20JAMA%202015%20Guide%20to%20Statistics%20and%20Methods%20-%20The%20Propensity%20Score.pdf) *Journal of the American Medical Association*
-
+- Hill Jennifer and Su Yu-Sung 2013 [Assessing Lack of Common Support in Causal Inference using Bayesian Nonparametrics: Implications for Evaluating the Effect of Breastfeeding on Children's Cognitive Outcomes](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Hill%20and%20Su%202013%20Assessing%20Lack%20of%20Common%20Support%20in%20Causal%20Inference%20using%20Bayesian%20Nonparametrics.pdf) *Annals of Applied Statistics*
+- Hirano Keisuke and Imbens Guido W 2001 [Estimation of Causal Effects using Propensity Score Weighting: An Application to Data on Right Heart Catheterization](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Hirano%20and%20Imbens%202001%20Weighting%20in%20RHC.pdf) *Health Services & Outcomes Research Methodology*
+- Hirono Keisuke and Imbens Guido W 2004 [The Propensity Score with Continuous Treatments](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Hirano%20and%20Imbens%202004%20Propensity%20Score%20Generalized%20to%20the%20Case%20of%20Continuous%20Treatments.pdf) draft of a chapter for *Missing Data and Bayesian Methods in Practice*
+- Hofler Michael 2005 [The Bradford Hill considerations on causalilty; A Counterfactual perspective](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Hofler%202005%20The%20Bradford%20Hill%20considerations%20on%20causality%20a%20counterfactual%20perspective.pdf) *Emerging Themes in Epidemiology*
+- Huybrechts Krista F et al. 2014 [Antidepressant Use in Pregnancy and the Risk of Cardiac Defects](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Huybrechts%20et%20al%202014%20NEJM%20main%20manuscript.pdf) *New England Journal of Medicine*
+    - Also available: [Supplementary Materials](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Huybrechts%20et%20al%202014%20NEJM%20supplemental%20content.pdf)
+- Huybrechts Krista F et al. 2015 [Antidepressant Use Late in Pregnancy and Risk of Persistent Pulmonary Hypertension of the Newborn](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Huybrechts%20et%20al%202015%20JAMA.pdf) *Journal of the American Medical Association*
+- Imai Kosuke and van Dyk David A 2004 [Causal Inference with Generalized Treatment Regimes: Generalizing the Propensity Score](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Imai%20and%20van%20Dyk%202004%20JASA%20Causal%20Inference%20with%20General%20Treatment%20Regimes%20-%20Generalizing%20the%20PS.pdf) *Journal of the American Statistical Association*
+- Landrum Mary Beth and Ayanian John Z 2001 [Causal Effect of Ambulatory Specialty Care on Mortality Following Myocardial Infarction: A Comparison of Propensity Score and Instrumental Variable Analyses](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Landrum%20and%20Ayanian%202001%20Propensity%20Scores%20and%20Instrumental%20Variables.pdf) *Health Services & Outcomes Research Methodology*
+- Lehman Darrin R et al. 1987 [Long-Term Effects of Losing a Spouse or Child in a Motor Vehicle Crash](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Lehman%20Wortman%20Williams%201987%20Loss%20of%20a%20Spouse%20or%20Child.pdf) *Journal of Personality and Social Psychology*
 - Lu Bo et al. 2001 [Matching with doses in an observational study of a media campaign against drug abuse](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Lu%20et%20al%202001%20JASA%20Matching%20with%20doses.pdf) *Journal of the American Statistical Association*
-
+- Normand Sharon-Lise T et al. 2001 [Validating recommendations for coronary angiography following acute myocardial infarction in the elderly: A matched analysis using propensity scores](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Normand%20et%20al%202001%20Propensity%20Score%20Matching%20Analysis%20on%20Acute%20MI%20in%20Elderly%20Patients.pdf) *Health Services & Outcomes Research Methodology*
+- Pasternak et al 2012 JAMA
+- Patel et al 2014 Circulation: Heart Failure
+- Posner et al 2001 *Health Services & Outcomes Research Methodology*
+- Ridgeway G et al 2015 
+- Rosenbaum Paul E 2010 [Design of Observational Studies](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Rosenbaum%20PR%202010%20Design%20of%20Observational%20Studies.pdf)
+- Rubin Donald B 2001 [Using Propensity Scores to help Design Observational Studies: Application to the Tobacco Litigation](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Rubin%202001%20Tobacco%20Litigation%20article.pdf) *Health Services & Outcomes Research Methodology*
+- Rubin Donald B 2004 [On principles for modeling propensity scores in medical research](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Rubin%202004%20editorial%20Pharmacoepidemiology%20and%20Drug%20Safety%20on%20Propensity%20Score%20Principles.pdf) *Pharmacoepidemiology and Drug Safety*
+- Sacco et al 2001 *JAMA*
+- Schaffer et al 2015 *JAMA*
+    - Also available: [Supplementary Materials](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Schaffer%20et%20al%202015%20JAMA%20supplemental%20content.pdf)
+- Schermerhorn et al 2015 *NEJM*
+    - Also available: [Supplementary Materials](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Schermerhorn%20et%20al%202015%20supplemental%20content.pdf)
+- Shirani et al 2012 *JAMA*
+- Smith and Pell 2003 *BMJ*
+- Stuart 2010 *Statistical Science*
+- Stuart et al. 2013 *eGEMS*
+- Stukel et al. 2007 *JAMA*
+- Svanstrom et al. 2013 *NEJM*
+    - Also available: [Supplementary Materials](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Svanstrom%20et%20al%202013%20supplemental%20content.pdf)
+- Weintraub et al. 2012 *NEJM*
+    - Also available: [Supplementary Materials](https://github.com/THOMASELOVE/500-2018/blob/master/texts/Weintraub%20et%20al%202012%20NEJM-CE%20of%20Revascularization%20Strategies%20supplemental%20content.pdf)
+- Weitzen et al. 2004
+- Weitzen et al. 2005
+- White et al. 2000 *NEJM*
+- Whitehouse 2007 *Wall Street Journal*
 
 
