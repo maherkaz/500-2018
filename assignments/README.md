@@ -1,6 +1,6 @@
 # Assignments for 500, Spring 2018
 
-The course requires you to complete four types of "assignments" and a total of 17 deliverables.
+The course requires you to complete four types of "assignments" and a total of 18 deliverables.
 
 ## Course Project - 3 deliverables
 
@@ -10,14 +10,13 @@ The course requires you to complete four types of "assignments" and a total of 1
 
 More details on the Course Project [are available here](https://github.com/THOMASELOVE/500-2018/tree/master/projects).
 
-## Observational Studies in Action - 2 deliverables
+## Observational Studies in Action - 3 deliverables
 
 Another requirement of the course is an *Observational Studies in Action* presentation where you will describe a published study that uses propensity score methods to address causal effect estimation in an observational study. The two deliverables are:
 
 1. a **study claim** which you will submit in February and you will need to receive my approval on this as well by March 1.
 2. a 15-minute **presentation** of your study to the class, either in class 9, 10, 11 or 12.
-
-You'll also act as "second reader" for one of your colleagues' presentations and give a short reaction to their presentation.
+3. You'll also act as "second reader" for one of your colleagues' presentations and give a short reaction to their presentation.
 
 More details on the Observational Studies in Action work [is available here](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/OSIA).
 
