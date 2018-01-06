@@ -28,10 +28,10 @@ You'll write one essay (of 175-250 words) regarding each of seven chapters from 
 
 You'll do **five homework assignments**, the first of which is due at the start of Class 2. These mostly require you to do some analyses (using R and R Markdown) on realistic but not real data I will provide. These are ungraded for quality - just for completion, and give you an opportunity to practice or develop coding skills in a low-stakes environment. 
 
-Link for Details   | Deliverables
------------: | --------------------------------------------------------------------------
-[Homework 1](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework1) | Mock Proposal, Logistic Regression model with DIG data
-[Homework 2](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework2) | Fitting a "Propensity Score" Model to the DIG data
-[Homework 3](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework3) | Using the Propensity Score in the `canc3` example, 1
-[Homework 4](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework4) | Using the Propensity Score in the `canc3` example, 2
-[Homework 5](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework5) | Using the Propensity Score in the DIG data example
+Link for Details   | Due Date | Deliverables
+-----------: | -------- | --------------------------------------------------------------------------
+[Homework 1](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework1) | Jan 25 | Mock Proposal, Logistic Regression model with DIG data
+[Homework 2](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework2) | Feb 1 | Fitting a "Propensity Score" Model to the DIG data
+[Homework 3](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework3) | Feb 22 | Using the Propensity Score in the `canc3` example, 1
+[Homework 4](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework4) | March 1 | Using the Propensity Score in the `canc3` example, 2
+[Homework 5](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework5) | March 15 | Using the Propensity Score in the DIG data example
