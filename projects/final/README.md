@@ -22,7 +22,7 @@ The version of your Abstract that you submit on April 18 should be complete. If 
 
 ## The Presentation
 
-After all of the project proposals have been approved, we will settle on a schedule for the presentations (some will be on April 19, some on April 26.) Your slides must be submitted prior to the presentation (by 11 PM on April 18) in either PDF or Powerpoint format.
+After all of the project proposals have been approved, we will settle on a schedule for the presentations (some will be on April 19, some on April 26.) Your slides must be submitted prior to the presentation (by 11 PM on April 18) in either PDF or Powerpoint format, regardless of which day you are speaking on.
 
 Broadly, your slides will include an introduction which provides a foundation by motivating and clearly stating the research questions you studied, a main section which summarizes your pre-data collection beliefs, the key models and analytical results, and the critical findings of the study, and a conclusion, which provides insight into how your knowledge of the problem you studied has changed as a result of the project, as well as highlighting what you believe to be the key takeaways (both statistical and study-specific) for your audience. These sections should be keyed to slides, smoothing transitions, and forcing you to "tell us what you're going to tell us, tell us, then tell us what you told us."  Plan for 25 minutes of total time, which should include about 18 minutes of slides, allowing 3-4 minutes for asking and answering questions during the talk, and 3-4 minutes after the talk.
 
