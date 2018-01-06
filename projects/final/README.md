@@ -69,5 +69,5 @@ All students must attend all presentations (you will be providing both oral and 
     - This presentation was informative and left me with "take away" value.
     - This presentation got the audience involved.
 
-I am open to suggestions about other questions that might be useful in this document. Just send them along. Thanks.
+I am open to suggestions about other questions that might be useful. Just send them along. Thanks.
 
