@@ -2,10 +2,12 @@
 
 ## Submission Details
 
-You will submit this in two parts.
+You will submit this in two parts. Submit all projects through canvas.case.edu
 
-1. Your pre-presentation version of your abstract and slides, due at 11 PM on April 18.
-2. Your final version of your abstract, slides, R Markdown file, HTML document, data set, and anything else, due at noon on May 1.
+1. By 11 PM on April 18, you will submit your pre-presentation versions of your Abstract and Slides.
+2. By noon on May 1, you will submit your final set of materials, including your abstract and slides (again, with revisions as necessary), your data set, R Markdown file and HTML document as outlined below.
+
+The remainder of this document describes these pieces, and also provides some insight on how I'd like to see you put together your presentation, and how that presentation will be evaluated.
 
 ## The Abstract
 
