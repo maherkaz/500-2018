@@ -9,7 +9,7 @@ For "A" credit, submit your work via canvas.case.edu before noon on 2018-03-15.
 
 ## Requirements
 
-Develop an analysis of the data in the DIG teaching data set we looked at in Homeworks 1 and 2. Choose a population (based on the available DIG data or an appropriate subset), outcome, treatment/exposure and covariates, then produce a R Markdown and HTML file combination which addresses Tasks 1-5 below.
+Develop an analysis of the data in the DIG teaching data set we looked at in Homeworks 1 and 2. Choose a population (based on the available DIG data or an appropriate subset), outcome, a binary indicator of treatment/exposure group and a set of between 10 and 30 covariates, then produce a R Markdown and HTML file combination which addresses Tasks 1-5 below.
 
 ### Task 1. 
 
@@ -29,5 +29,5 @@ Build a complete analysis using propensity weighting (and regression adjustment,
 
 ### Task 5. 
 
-Build and describe in complete English sentences a comparison of the results obtained from Tasks 2, 3 and 4. Describe any concerns you have about the relative merits of your various causal effect estimates.
+Build and describe (in complete English sentences) a comparison of the results obtained from Tasks 2, 3 and 4. Describe any concerns you have about the relative merits of your various causal effect estimates.
 
