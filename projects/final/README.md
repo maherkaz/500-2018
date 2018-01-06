@@ -7,6 +7,8 @@ You will submit this in two parts.
 1. Your pre-presentation version of your abstract and slides, due at 11 PM on April 18.
 2. Your final version of your abstract, slides, R Markdown file, HTML document, data set, and anything else, due at noon on May 1.
 
+If your presentation goes smoothly (on April 19 or 26) then you will likely need to do nothing more than resubmit your slides and abstract, adding the R Markdown, HTML and data on May 1. If it doesn't go so well, you may have more substantial work to do.
+
 ## The Abstract
 
 Your abstract should be no longer than 2 pages (perhaps 4,000 characters at the most) and contains much of your approved proposal (perhaps more succinctly summarizing some of the background, data set, and methodological details to meet the character limit.) To this, you will add (still within the character limit) brief Results and Conclusions sections. Unlike our previous versions of this task, this version of the Abstract should be divided into four sections, as indicated below:
@@ -47,4 +49,25 @@ Here's how I might outline such a talk. Do not feel obligated to follow this out
 - Slide 18: Description of results for secondary outcomes (if needed)
 - Slide 19: A slide with clinical conclusions, focusing on the primary outcome.
 - Slide 20: A slide with statistical conclusions – additional methodological considerations. What do you know now that you wish you knew at the beginning, or that you think might be useful to others, or that you think might be useful to you after much of the class has faded into memory?
+
+### Evaluating the Project Presentations
+
+All students must attend all presentations (you will be providing both oral and written feedback to your colleagues). A sampling of the questions I have used in past evaluation sheets with this class follows.
+
+- (Open Response) Make your best suggestion to improve this presentation, or study.
+- (Open Response) What was the most important thing you learned from this presentation?
+- (Open Response) What was the muddiest, most confusing part of this presentation?
+- (Likert scales 6 = Strongly Agree to 1 = Strongly disagree)
+    - The introduction allowed me to understand the problem sufficiently.
+    - The research question(s) were stated clearly.
+    - The speaker presented a statistically sound plan of action.
+    - The speaker motivated their choices about study design well.
+    - The speaker developed reasonable solutions to analytic problems.
+    - The speaker supported recommendations with analytic results.
+    - The speaker focused on important issues in the presentation.
+    - I believe the speaker's conclusions.
+    - This presentation was informative and left me with "take away" value.
+    - This presentation got the audience involved.
+
+I am open to suggestions about other questions that might be useful in this document. Just send them along. Thanks.
 
