@@ -2,7 +2,7 @@
 
 Prior to the start of discussion about Chapters 7-13, you will produce an essay of **175-250 words** each week in reaction to a prompt related to that week's chapter.
 
-- You will submit each essay before class begins. Details to come.
+- You will submit each essay before class begins. Submission details to come.
 - These essays will be shared with the rest of the class. 
 - Note that the first few prompts are between 100 and 111 words in length, so that in most cases a response of about double the length of the prompt should be your goal.
 
