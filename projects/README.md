@@ -16,9 +16,9 @@ I want you to establish relevant and interesting research questions related to a
 
 1. The [Project Proposal](https://github.com/THOMASELOVE/500-2018/tree/master/projects/proposal) which you will submit in February. Here you will be identifying an observational study of interest and writing a detailed proposal, which you will revise, as needed, in reaction to my comments, until a final version is complete not later than March 1. Your initial proposal should therefore be submitted at least a couple of weeks prior to that date. For complete details on the proposal, [go here](https://github.com/THOMASELOVE/500-2018/tree/master/projects/proposal).
 
-2. An **update** verifying that you have the data and are proceeding appropriately, due April 1.
+2. The [Project Update](https://github.com/THOMASELOVE/500-2018/tree/master/projects/update) which you will submit in March (it is due April 1.) Here you will be revising your proposal, verifying that you have the data and are proceeding appropriately. For complete details on the update, [go here](https://github.com/THOMASELOVE/500-2018/tree/master/projects/update)
 
-3. A final 20-minute **presentation** to the class about your results, due April 19, although some presentations will be given on April 26. In addition to building presentation slides using Markdown or some other strategy (like Powerpoint), you will produce a formal abstract of the study, and a paired R Markdown and HTML file set that describes all of your analytic and data management work.
+3. A final 20-minute **presentation** to the class about your results, due April 19, although some presentations will be given on April 26. In addition to building presentation slides using Markdown or some other strategy (like Powerpoint), you will produce a formal abstract of the study, and a paired R Markdown and HTML file set that describes all of your analytic and data management work. For complete details on the final set of materials for the project, [go here](https://github.com/THOMASELOVE/500-2018/tree/master/projects/final)
 
 **Please don't be shy about asking for help sooner, rather than later. Options narrow as an investigation progresses. The earlier I hear about a problem, the more likely I will be able to help solve it.**
 
