@@ -14,7 +14,7 @@ There is more to a statistical application than the analysis of a canned data se
 
 I want you to establish relevant and interesting research questions related to a problem of interest, procure data to help answer the questions and pose others, and communicate your results to an audience of your peers. You will be responsible for the following elements of a project, described in detail in the rest of this document. All materials for the project should be submitted through canvas.case.edu
 
-1. A **proposal** which you will submit for my approval in February. Here you will be identifying an observational study of interest and writing a detailed proposal, which you will revise, as needed, in reaction to my comments, until a final version is complete not later than March 1, so your initial submission should be submitted at least a couple of weeks prior to that date.
+1. A **proposal** which you will submit for my approval in February. Here you will be identifying an observational study of interest and writing a detailed proposal, which you will revise, as needed, in reaction to my comments, until a final version is complete not later than March 1, so your initial submission should be submitted at least a couple of weeks prior to that date. For more on the proposal, [go here](https://github.com/THOMASELOVE/500-2018/blob/master/projects/README.md#task-1-the-proposal-which-can-be-submitted-in-february-and-must-be-approved-by-march-1).
 
 2. An **update** verifying that you have the data and are proceeding appropriately, due April 1.
 
