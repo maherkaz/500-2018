@@ -24,6 +24,8 @@ You will give a 15-minute presentation of the background, methods and key result
 - I suggest you plan on spending about half of the time discussing the statistical and design considerations.
 - I strongly encourage you to provide useful graphs to summarize key findings.
 
+If you like, you can adapt the [outline I suggest for your final project proposal](https://github.com/THOMASELOVE/500-2018/tree/master/projects/final#the-presentation) for this task, although I would encourage you to think hard about what might be most useful to us in this context, rather than just applying that plan.
+
 ## Second Reviewer
 
 For each OSIA study, a "second reviewer" will be assigned in March once all studies are established (so that everyone does this job once.) The "second reviewer" for each study will provide 3-5 minutes of commentary on the study after the study is presented by the main reviewer.
