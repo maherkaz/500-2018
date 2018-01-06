@@ -7,8 +7,6 @@ You will submit this in two parts.
 1. Your pre-presentation version of your abstract and slides, due at 11 PM on April 18.
 2. Your final version of your abstract, slides, R Markdown file, HTML document, data set, and anything else, due at noon on May 1.
 
-If your presentation goes smoothly (on April 19 or 26) then you will likely need to do nothing more than resubmit your slides and abstract, adding the R Markdown, HTML and data on May 1. If it doesn't go so well, you may have more substantial work to do.
-
 ## The Abstract
 
 Your abstract should be no longer than 2 pages (perhaps 4,000 characters at the most) and contains much of your approved proposal (perhaps more succinctly summarizing some of the background, data set, and methodological details to meet the character limit.) To this, you will add (still within the character limit) brief Results and Conclusions sections. Unlike our previous versions of this task, this version of the Abstract should be divided into four sections, as indicated below:
