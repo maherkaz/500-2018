@@ -32,4 +32,4 @@ For each OSIA study, a "second reviewer" will be assigned on March 1 once all st
 
 ## Audience Role
 
-For each OSIA study, everyone will read the abstracts in advance, so that we can have some understanding of what's involved. The papers will be posted to this section of the site as soon as they are available.
+For each OSIA study, everyone will read the abstracts in advance, so that we can have some understanding of what's involved and contribute to the discussion. The papers will be posted to this section of the site as soon as they are available.
