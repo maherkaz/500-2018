@@ -28,7 +28,7 @@ If you like, you can adapt the [outline I suggest for your final project proposa
 
 ## Second Reviewer
 
-For each OSIA study, a "second reviewer" will be assigned in March once all studies are established (so that everyone does this job once.) The "second reviewer" for each study will provide 3-5 minutes of commentary on the study after the study is presented by the main reviewer.
+For each OSIA study, a "second reviewer" will be assigned on March 1 once all studies are established (so that everyone does this job once.) The "second reviewer" for each study will provide 3-5 minutes of commentary on the study after the study is presented by the main reviewer.
 
 ## Audience Role
 
