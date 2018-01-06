@@ -71,3 +71,19 @@ All students must attend all presentations (you will be providing both oral and 
 
 I am open to suggestions about other questions that might be useful. Just send them along. Thanks.
 
+## The Final Set of Deliverables (due May 1 at NOON)
+
+Submit via canvas.case.edu your final project materials by NOON on May 1. This will include five key items:
+
+1. An updated **Abstract** with any necessary corrections to the one submitted April 18 (if there are no changes, please submit this anyway and indicate that you have made no changes.)
+2. Updated **Slides** with necessary corrections or amplifications to that presented in class (again, if there are no changes, please submit this anyway and indicate that you have made no changes.)
+3. A copy of the **Data Set** (as a .csv file) or, if that is impossible, a dummy data set containing all variables used in your analyses, and a single, representative (though possibly disguised) row of data,
+4. a well-annotated **R Markdown** file that takes your submitted data set and flawlessly produces a document containing all of the analyses described in your abstract, slides or discussion, and
+5. an **HTML version** of the results of running your Markdown file.
+
+Note that your Markdown/HTML file should produce a readable discussion of your entire project.
+
+- This discussion should describe both your analyses and conclusions in a larger context and describe implications of your current work, and potential future work, likely in more detail than you will be able to provide in your presentation. 
+- Include a paragraph (or more) at the end of this discussion specifying what you learned from doing this project, and what you still need to learn in order to complete your study to your satisfaction.
+- You may incorporate as many figures as are crucial in your discussion, but edit your Markdown file to only produce the plots and output you intend to comment on, certainly including anything that is included in your Abstract or Slides, but also potentially including other things that did not make it into those pieces. 
+- Frank Harrell's [Manuscript Checklist of Statistical Problems to Detect and Avoid](http://biostat.mc.vanderbilt.edu/wiki/Main/ManuscriptChecklist) may be helpful.
