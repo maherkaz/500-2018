@@ -6,7 +6,7 @@ The course requires you to complete four types of "assignments."
 
 2. An *Observational Studies in Action* presentation - details here.
 
-3. **Essays in reaction to Rosenbaum**: Beginning with Class 4, you will produce an **essay** of 175-250 words in reaction to a prompt related to that week's chapter from Rosenbaum's *Observation & Experiment* text. You'll eventually write seven essays, one about each chapter from 7 - 13. The prompts are [available here](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md).
+3. **Essays in reaction to Rosenbaum**: Beginning with Class 4, you will produce an **essay** of 175-250 words in reaction to that week's chapter from Rosenbaum's *Observation & Experiment* text. You'll eventually write seven essays, one about each chapter from 7 - 13. The prompts for the essays are [available here](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/essayprompts.md).
 
 4. **Homework Assignments**: Five homework assignments (linked below) are required, the first of which is due at the start of Class 2. These mostly require you to do some analyses (using R and R Markdown) on realistic but not real data I will provide. These are ungraded for quality - just for completion, and give you an opportunity to practice or develop coding skills in a low-stakes environment. Details are posted below.
 
