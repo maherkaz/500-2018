@@ -1,8 +1,11 @@
-# Homework 2 for 500 (Due at Class 3: 2018-02-01)
+# Homework 2 for 500 (Due 2018-02-01)
 
 ## Submission Details
 
-Submit your work according to the instructions Dr. Love provides in class.
+For "A" credit, submit your work via canvas.case.edu before noon on 2018-02-01. 
+
+- If for some reason, you cannot make that deadline, submit the work within 48 hours of the deadline for "B" credit.
+- All homework must be submitted within 48 hours of the deadline to pass the course.
 
 ## 1. Create a sample.
 
