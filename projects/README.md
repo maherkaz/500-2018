@@ -22,10 +22,8 @@ I want you to establish relevant and interesting research questions related to a
 
 3. The [Final Materials](https://github.com/THOMASELOVE/500-2018/tree/master/projects/final) which you will submit in April. This includes:
 
-- A final 20-minute **presentation** to the class about your results, due April 19, although some presentations will be given on April 26.
-- In addition to building presentation slides using Markdown or some other strategy (like Powerpoint), you will produce a formal abstract of the study, and a paired R Markdown and HTML file set that describes all of your analytic and data management work, and this set of materials is due May 1. 
+- An **abstract** and final **presentation** to the class about your results, due at 11 PM on April 18. Some presentations will be given in class on April 19, and the rest on April 26.
+- A final set of materials, including a revised abstract and presentation slides, but also a data set, R Markdown file and HTML results, including a **discussion** is due at noon on May 1.
 - For complete details on the final set of materials for the project, [go here](https://github.com/THOMASELOVE/500-2018/tree/master/projects/final).
 
-
-
-        
+       
