@@ -1,15 +1,15 @@
-# Homework 5 for 500 (Due on 2018-03-15)
+# Homework 5 for 500 (Due 2018-03-15)
 
 ## Submission Details
 
 For "A" credit, submit your work via canvas.case.edu before noon on 2018-03-15. 
 
-- If for some reason, you cannot make that deadline, submit the work within 48 hours of the deadline for B credit.
+- If for some reason, you cannot make that deadline, submit the work within 48 hours of the deadline for "B" credit.
 - All homework must be submitted within 48 hours of the deadline to pass the course.
 
 ## Requirements
 
-Develop a complete propensity-score analysis of the data in the DIG teaching data set we looked at in Homeworks 1 and 2. Identify a population (based on the available DIG data or an appropriate subset), outcome, treatment/exposure and covariates, then produce a R Markdown and HTML file combination which addresses Tasks 1-5 below.
+Develop an analysis of the data in the DIG teaching data set we looked at in Homeworks 1 and 2. Choose a population (based on the available DIG data or an appropriate subset), outcome, treatment/exposure and covariates, then produce a R Markdown and HTML file combination which addresses Tasks 1-5 below.
 
 ### Task 1. 
 
@@ -17,7 +17,7 @@ Build and display an appropriate Table 1 comparing the treatment groups on the c
 
 ### Task 2.
 
-Build and describe an unadjusted analysis of the impact of the treatment on the outcome.
+Build and describe an unadjusted analysis of the impact of the treatment on the outcome. This should yield both a point estimate and uncertainty interval.
 
 ### Task 3. 
 
