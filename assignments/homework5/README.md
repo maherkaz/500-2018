@@ -2,7 +2,7 @@
 
 ## Submission Details
 
-For "A" credit, submit your work via canvas.case.edu before noon on 2018-03-15. 
+For "A" credit, submit your work via canvas.case.edu before noon on 2018-03-15. Note that we do not have class that week.
 
 - If for some reason, you cannot make that deadline, submit the work within 48 hours of the deadline for "B" credit.
 - All homework must be submitted within 48 hours of the deadline to pass the course.
