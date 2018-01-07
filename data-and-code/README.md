@@ -1,12 +1,12 @@
 # Data and Code for 500, Spring 2018
 
-## The R-Basics Materials
+## The R-Basics Materials: Focused on Data Management and Logistic Regression
 
 I've built several documents to help remind you of some basic things you will need to use in R. [See them here](https://github.com/THOMASELOVE/500-2018/tree/master/data-and-code/r-basics).
 
-## The TOY example
+## The TOY example: Your First Demo for Running a Propensity Analysis
 
-The toy example is 100% fictional, and shows a (relatively) simple way to do some basic propensity score analyses, using a quantitative outcome, a binary outcome, and a time-to-event outcome. In no way would I claim that the approach shown here is in any way optimal. It's just a first demo. You'll [find it here](https://github.com/THOMASELOVE/500-2018/tree/master/data-and-code/toy_example).
+The toy example is 100% fictional, and shows a (relatively) simple way to do some basic propensity score analyses, using a quantitative outcome, a binary outcome, and a time-to-event outcome. In no way would I claim that the approach is in any way optimal. It's just a first demo, but it's got about 95 pages worth of material. You'll [find it here](https://github.com/THOMASELOVE/500-2018/tree/master/data-and-code/toy_example).
 
 ## Sensitivity Spreadsheet: Beware - this was built in 2008
 
