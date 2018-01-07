@@ -10,9 +10,9 @@ The [course schedule](https://github.com/THOMASELOVE/500-2018/blob/master/SCHEDU
 
 ## Key Links
 
-- [Assignments](https://github.com/THOMASELOVE/500-2018/tree/master/assignments) material.
-- [Data and Code](https://github.com/THOMASELOVE/500-2018/tree/master/data-and-code) from Dr. Love
-- Course [Projects](https://github.com/THOMASELOVE/500-2018/tree/master/projects) information.
+- Material related to the Homework, Essay and Observational Studies in Action [Assignments](https://github.com/THOMASELOVE/500-2018/tree/master/assignments).
+- Examples of [Data and Code](https://github.com/THOMASELOVE/500-2018/tree/master/data-and-code) from Dr. Love.
+- Material related to the Course [Project](https://github.com/THOMASELOVE/500-2018/tree/master/projects) information.
 - Presentation [Slides](https://github.com/THOMASELOVE/500-2018/tree/master/slides) from class. 
 - Outside [Texts](https://github.com/THOMASELOVE/500-2018/tree/master/texts) and other suggested reading materials.
 
