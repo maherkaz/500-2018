@@ -4,9 +4,9 @@
 
 The toy example is 100% fictional, and shows a (relatively) simple way to do some basic propensity score analyses, using a quantitative outcome, a binary outcome, and a time-to-event outcome. In no way would I claim that the approach shown here is in any way optimal. It's just a first demo.
 
-- [toy.csv](https://raw.githubusercontent.com/THOMASELOVE/ichps2018/master/code/toy.csv) data file
-- [toy_example.pdf](https://github.com/THOMASELOVE/ichps2018/blob/master/code/toy_ICHPS.pdf) documentation (result of running the R Markdown file below)
-- [toy_example.Rmd](https://raw.githubusercontent.com/THOMASELOVE/ichps2018/master/code/toy_ICHPS.Rmd) R Markdown file
+- [toy.csv](https://raw.githubusercontent.com/THOMASELOVE/500-2018/master/data-and-code/toy.csv) data file
+- [toy_example.pdf](https://github.com/THOMASELOVE/500-2018/blob/master/data-and-code/toy_example.pdf) documentation (result of running the R Markdown file below)
+- [toy_example.Rmd](https://raw.githubusercontent.com/THOMASELOVE/500-2018/master/data-and-code/toy_example.Rmd) R Markdown file
 
 You may want to download the R Markdown and csv files, then generate the HTML on your own.
 
@@ -34,8 +34,8 @@ You may want to download the R Markdown and csv files, then generate the HTML on
 
 ## Sensitivity Spreadsheet: Beware - this was built in 2008
 
-- [Spreadsheet]() 
-- [Documentation]() (10 pages)
+- [Spreadsheet](https://github.com/THOMASELOVE/500-2018/blob/master/data-and-code/sensitivityspreadsheet_2008.xls) 
+- [Documentation](https://github.com/THOMASELOVE/500-2018/blob/master/data-and-code/sensitivitydocumentation_2008.pdf) (10 pages)
 
 # Some Work from Other People
 
