@@ -6,6 +6,7 @@ For "A" credit, submit your work via canvas.case.edu before noon on 2018-02-22.
 
 - If for some reason, you cannot make that deadline, submit the work within 48 hours of the deadline for "B" credit.
 - All homework must be submitted within 48 hours of the deadline to pass the course.
+- I recommend a close look at [the toy example](https://github.com/THOMASELOVE/500-2018/tree/master/data-and-code/toy_example) and other examples from our [Data and Code page](https://github.com/THOMASELOVE/500-2018/tree/master/data-and-code).
 
 ## Data
 
