@@ -2,9 +2,9 @@
 
 The **toy** example is 100% fictional, and shows a (relatively) simple way to do some basic propensity score analyses, using a quantitative outcome, a binary outcome, and a time-to-event outcome. In no way would I claim that the approach shown here is in any way optimal. It's just a first demo.
 
-- [toy.csv](https://raw.githubusercontent.com/THOMASELOVE/500-2018/master/data-and-code/toy.csv) data file
-- [toy_example.pdf](https://github.com/THOMASELOVE/500-2018/blob/master/data-and-code/toy_example.pdf) documentation (result of running the R Markdown file below)
-- [toy_example.Rmd](https://raw.githubusercontent.com/THOMASELOVE/500-2018/master/data-and-code/toy_example.Rmd) R Markdown file
+- [toy.csv](https://raw.githubusercontent.com/THOMASELOVE/500-2018/master/data-and-code/toy_example/toy.csv) data file
+- [toy_example.pdf](https://github.com/THOMASELOVE/500-2018/blob/master/data-and-code/toy_example/toy_example.pdf) documentation (result of running the R Markdown file below)
+- [toy_example.Rmd](https://raw.githubusercontent.com/THOMASELOVE/500-2018/master/data-and-code/toy_example/toy_example.Rmd) R Markdown file
 
 You may want to download the R Markdown and csv files, then generate the HTML on your own.
 
