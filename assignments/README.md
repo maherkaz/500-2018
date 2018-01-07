@@ -8,19 +8,19 @@ The course requires you to complete four types of "assignments" and a total of 1
 
 1. a **proposal** which you will submit for my approval in February (you should expect the need to do a revision or two) and you will need to receive my approval by March 1.
 2. an **update** verifying that you have the data and are proceeding appropriately, due April 1.
-3. a final 20-minute **presentation** to the class about your results, due April 19, although some presentations will be given on April 26.
+3. a final 20-minute **presentation** to the class about your results accompanied by an **abstract**, and by R Markdown and HTML files that describe the work you did. The presentations are on April 19 and 26. You will submit your abstract and presentation slides on April 18, and then submit all of the final materials by May 1.
 
 More details on the Course Project [are available here](https://github.com/THOMASELOVE/500-2018/tree/master/projects).
 
 ## Observational Studies in Action - 3 deliverables
 
-Another requirement of the course is an *Observational Studies in Action* presentation where you will describe a published study that uses propensity score methods to address causal effect estimation in an observational study. The two deliverables are:
+Another requirement of the course is an *Observational Studies in Action* presentation where you will describe a published manuscript that uses propensity score methods to address causal effect estimation in an observational study. The two deliverables are:
 
 1. a **study claim** which you will submit in February and you will need to receive my approval on this as well by March 1.
 2. a 15-minute **presentation** of your study to the class, either on March 22, 29, April 5 or 12.
 3. You'll also act as "second reader" for one of your colleagues' presentations and give a short reaction to their presentation.
 
-More details on the Observational Studies in Action work [is available here](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/OSIA).
+More details on the Observational Studies in Action work [are available here](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/OSIA).
 
 ## Essays in reaction to Rosenbaum's text - 7 deliverables
 
