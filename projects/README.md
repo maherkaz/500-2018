@@ -16,7 +16,7 @@ I want you to establish relevant and interesting research questions related to a
 
 **Please don't be shy about asking for help sooner, rather than later. Options narrow as an investigation progresses. The earlier I hear about a problem, the more likely I will be able to help solve it.**
 
-**Note also that some tips for the project are provided** [on this tips page](https://github.com/THOMASELOVE/500-2018/blob/master/projects/tips.md) **and in** [the course syllabus](https://thomaselove.github.io/500-syllabus/)
+**Note also that some tips for the project are provided** [on this tips page (about coding and strategy)](https://github.com/THOMASELOVE/500-2018/blob/master/projects/tips.md) **and in** [the course syllabus (about writing/presenting)](https://thomaselove.github.io/500-syllabus/).
 
 1. The [Project Proposal](https://github.com/THOMASELOVE/500-2018/tree/master/projects/proposal) which you will submit in February. Here you will be identifying an observational study of interest and writing a detailed proposal, which you will revise, as needed, in reaction to my comments, until a final version is complete not later than March 1. Your initial proposal should therefore be submitted at least a couple of weeks prior to that date. For complete details on the proposal, [go here](https://github.com/THOMASELOVE/500-2018/tree/master/projects/proposal).
 
