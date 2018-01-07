@@ -61,3 +61,10 @@ Your final results should include:
     2. your fitted logistic regression model (to your training sample)
     3. the results of your application of your model to your test sample, which is best accomplished as a graph which shows the distribution of your model probability estimates in the "actually died" and "actually survived" groups within your test sample.
 
+### A Big Hint for Question 3
+
+Prior to 2016, I asked some different questions in the first homework assignment, but looking [that old assignment](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework1/oldhw1) over, and [the answer sketch for it](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework1/oldhw1) that I have provided to you, will likely be helpful.
+
+It would also probably be a good idea to review [the R-basics documents on our Data and Code page](), which also contain some examples using logistic regression models.
+
+
