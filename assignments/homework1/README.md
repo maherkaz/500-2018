@@ -6,6 +6,7 @@ For "A" credit, submit your work via canvas.case.edu before noon on 2018-01-25.
 
 - If for some reason, you cannot make that deadline, submit the work within 48 hours of the deadline for "B" credit.
 - All homework must be submitted within 48 hours of the deadline to pass the course.
+- Don't miss the **big hint** at the bottom of this page.
 
 ## 1. Get access to the DIG training data
 
