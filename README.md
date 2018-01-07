@@ -4,9 +4,9 @@ This is the home page for the Spring 2018 version of PQHS/CRSP (formerly EPBI) 5
 
 ## The Course Syllabus and Schedule
 
-The course syllabus is available at https://thomaselove.github.io/500-syllabus/. It is a work in progress.
+The course syllabus is available at https://thomaselove.github.io/500-syllabus/. It is basically complete now, but only touches on a piece of what's here on the site.
 
-The [course schedule](https://github.com/THOMASELOVE/500-2018/blob/master/SCHEDULE.md) is also available. The course begins on Thursday, 2018-01-18 at 8:30 AM.
+The [course schedule](https://github.com/THOMASELOVE/500-2018/blob/master/SCHEDULE.md) is also available. Again, the course begins on Thursday, 2018-01-18 at 8:30 AM.
 
 ## Key Links
 
@@ -16,7 +16,7 @@ The [course schedule](https://github.com/THOMASELOVE/500-2018/blob/master/SCHEDU
 - Presentation [Slides](https://github.com/THOMASELOVE/500-2018/tree/master/slides) from class. 
 - Outside [Texts](https://github.com/THOMASELOVE/500-2018/tree/master/texts) and other suggested reading materials.
 
-As the semester progresses, we are going to read a book together. You should obtain it as soon as possible.
+As the semester progresses, we are going to read a book together. **You should obtain it as soon as possible.**
 
 - Paul Rosenbaum's *Observation and Experiment: An Introduction to Causal Inference*, published in 2017 by Harvard University Press. The ISBN-13 number is 978-0674975576. The book is available electronically or in hardcover from Amazon and other retailers.
 
