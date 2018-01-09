@@ -4,7 +4,7 @@
 
 I've built several documents to help remind you of some basic things you will need to use in R. [See them here](https://github.com/THOMASELOVE/500-2018/tree/master/data-and-code/r-basics).
 
-- Hadley Wickham's [Whole Game Video from YouTube](https://youtu.be/go5Au01Jrvs) with [code and data here](https://github.com/hadley/building-permits) may be of interest. Hadley does a nice job of showing you how people actually do data analysis work.
+- Hadley Wickham's [Whole Game Video](https://youtu.be/go5Au01Jrvs) with [code and data here](https://github.com/hadley/building-permits) may be of interest. Hadley does a nice job of showing you how people actually do data analysis work.
 
 ## The TOY example: Your First Demo for Running a Propensity Analysis
 
