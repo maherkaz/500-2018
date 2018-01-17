@@ -22,4 +22,4 @@ As the semester progresses, we are going to read a book together. **You should o
 
 ## Getting Help
 
-To get help on anything related to the course, email Dr. Love at `thomas.love@case.edu`.
+To get help on anything related to the course, email Dr. Love at **Thomas dot Love at case dot edu**.
