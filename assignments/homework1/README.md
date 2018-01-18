@@ -2,9 +2,9 @@
 
 ## Submission Details
 
-For "A" credit, submit your work via canvas.case.edu before noon on 2018-01-25. 
+For full credit, submit your work via canvas.case.edu before 4 PM on 2018-01-25. 
 
-- If for some reason, you cannot make that deadline, submit the work within 48 hours of the deadline for "B" credit.
+- If for some reason, you cannot make that deadline, submit the work within 48 hours of the deadline for partial credit.
 - All homework must be submitted within 48 hours of the deadline to pass the course.
 - Don't miss the **big hint** at the bottom of this page.
 
@@ -34,7 +34,9 @@ To help you build a response, [I have provided](https://github.com/THOMASELOVE/5
     + Exposure/Treatment = A or B, and be sure to specify the way in which you will know which exposure someone receives, and whether the exposure / treatment is applied using a randomized approach, or not.
     + Outcome = ..., and be sure to specify the variables you will use to determine the outcome, as well as the *type* of outcome, be it continuous, categorical (and if categorical, binary or multi-categorical) or survival (and if survival, is censoring involved?) 
     + Covariates of interest: We'd be interested in anything related to treatment choice or to outcome. You should provide a list of such variables of interest. Remember to include **ONLY** things which are measured prior to the exposure/treatment of interest, or which are not possibly changed by it.
-    
+
+Note that I'm **NOT** asking you to do any analyses in Question 2.
+
 ## 3. Build and evaluate a logistic regression model using DIG data
 
 Use R, R Studio and R Markdown to execute a logistic regression model on the `dig1.csv` data. 
