@@ -1,8 +1,8 @@
 # 500 Class 01: 2018-01-18
 
-The slides for Class 1 [are available here](https://github.com/THOMASELOVE/500-2018/blob/master/slides/class01/500_2018_slides_class01.pdf).
+The slides for Class 1 [are available here](https://github.com/THOMASELOVE/500-2018/blob/master/slides/class01/500_2018_slides_class01.pdf), and were slightly edited after class to fix a typo or two.
 
-Should we manage to record the class successfully, we'll place that (audio) recording on this page as well.
+Thanks to Ryan Honomichl, we have audio files of Class 1 [available above](https://github.com/THOMASELOVE/500-2018/tree/master/slides/class01) for download, in three parts.
 
 Announcements:
 
