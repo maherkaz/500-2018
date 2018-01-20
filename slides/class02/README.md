@@ -4,4 +4,4 @@ As they become available, the slides for Class 2, and the audio recording of the
 
 ## Announcements Before Class:
 
-1. Coming soon.
+1. Nothing yet. Stay tuned.
