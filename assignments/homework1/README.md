@@ -70,4 +70,6 @@ Prior to 2016, I asked some different questions in the first homework assignment
 
 It would also probably be a good idea to review [the R-basics documents on our Data and Code page](), which also contain some examples using logistic regression models.
 
+I used the `simputation` package to accomplish simple imputations in the Answer Sketch for Question 3. This package is new on our "[packages to install](https://github.com/THOMASELOVE/500-2018/blob/master/data-and-code/PACKAGES.md)" list.
+
 
