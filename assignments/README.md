@@ -39,3 +39,12 @@ Link for Details   | Due Date | Deliverables
 [Homework 3](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework3) | Feb 22 | Using the Propensity Score in the `canc3` example, 1
 [Homework 4](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework4) | March 1 | Using the Propensity Score in the `canc3` example, 2
 [Homework 5](https://github.com/THOMASELOVE/500-2018/tree/master/assignments/homework5) | March 15 | Using the Propensity Score in the DIG data example
+
+## A Note on Feedback
+
+500 is a very different course from 431-432 in terms of the "hands on" assistance that I make available to you as you're working on a homework assignment, in part because I don't have a TA for the course. In particular, I'm not going to review your code to be sure you're going in the right direction, even though I understand some of you have come to expect that from 431-432.
+
+Instead, we discuss the HW assignments in class and I provide a detailed answer sketch after the fact. So if you have questions, please feel free to send them, and I'll answer sometimes, but what I am likely to say to anything I cannot resolve quickly for you (or think is worthy of deeper discussion as a group) is: 
+
+1. That sounds like an excellent question to bring up on Thursday in class, and 
+2. I'm going to let you (and everyone else) flounder a bit between now and our discussion of this HW in class.
