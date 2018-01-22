@@ -7,6 +7,8 @@
 
 1. Anyone taking the class who did not yet clean up [the Google Doc roster](https://docs.google.com/spreadsheets/d/1Dgaz8HkJEJYK_y5780pfym0WNSviyySFjfD94hh82aw/edit?usp=sharing)?
 
+2. The Homework 1 Answer Sketch will be posted Thursday.
+
 ## A Note on Feedback
 
 500 is a very different course from 431-432 in terms of the "hands on" assistance that I make available to you as you're working on a homework assignment, in part because I don't have a TA for the course. In particular, I'm not going to review your code to be sure you're going in the right direction, even though I understand some of you have come to expect that from 431-432.
