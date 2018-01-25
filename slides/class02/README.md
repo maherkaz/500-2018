@@ -7,7 +7,7 @@
 
 1. Anyone taking the class who did not yet clean up [the Google Doc roster](https://docs.google.com/spreadsheets/d/1Dgaz8HkJEJYK_y5780pfym0WNSviyySFjfD94hh82aw/edit?usp=sharing)?
 
-2. The Homework 1 Answer Sketch (for Question 3) is now available in [Markdown](https://raw.githubusercontent.com/THOMASELOVE/500-2018/master/assignments/homework1/homework1_sketch.Rmd), [PDF](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/homework1/homework1_sketch.pdf) and [HTML](https://htmlpreview.github.io/?https://github.com/THOMASELOVE/500-2018/blob/master/assignments/homework1/homework1_sketch.html). Be sure to get your work in on time to [Canvas](https://canvas.case.edu/).
+2. The Homework 1 Answer Sketch (for Question 3) is now available in [Markdown](https://raw.githubusercontent.com/THOMASELOVE/500-2018/master/assignments/homework1/homework1_sketch.Rmd), [PDF](https://github.com/THOMASELOVE/500-2018/blob/master/assignments/homework1/homework1_sketch.pdf) and [HTML](https://htmlpreview.github.io/?https://github.com/THOMASELOVE/500-2018/blob/master/assignments/homework1/homework1_sketch.html). Be sure to get your work in on time (by **4 PM**) to [Canvas](https://canvas.case.edu/).
 
 ## A Note on Feedback
 
