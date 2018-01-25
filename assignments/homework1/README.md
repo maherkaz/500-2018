@@ -2,7 +2,7 @@
 
 ## Submission Details
 
-For full credit, submit your work via canvas.case.edu before 4 PM on 2018-01-25. 
+For full credit, submit your work via canvas.case.edu before **4 PM** on 2018-01-25. 
 
 - If for some reason, you cannot make that deadline, submit the work within 48 hours of the deadline for partial credit.
 - All homework must be submitted within 48 hours of the deadline to pass the course.
