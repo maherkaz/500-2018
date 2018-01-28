@@ -1,6 +1,6 @@
 # 500 Class 03: 2018-02-01
 
-- Slides for Class 3 (pdf) [are now available](https://github.com/THOMASELOVE/500-2018/blob/master/slides/class03). 
+- Slides for Class 3 (pdf) [are now available](https://github.com/THOMASELOVE/500-2018/blob/master/slides/class03/500-2018-slides_class03.pdf). 
 - The Class 3 audio recording [will appear here](https://github.com/THOMASELOVE/500-2018/blob/master/slides/class03) once it's available.
 
 ## Announcements Before Class:
